@@ -14,6 +14,8 @@ public int num;
  
 	 	String nS=Integer.toString(num);
 	 	
+	 	num=num+1;
+	 	
 	 	return nS;
 	
 	}
