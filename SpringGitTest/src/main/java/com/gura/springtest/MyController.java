@@ -18,6 +18,7 @@ public int num;
 	 	System.out.println(num);
 	 	num=num+3;
 	 	System.out.println(num); //add
+	 	System.out.println(4);
 
 	 	
 	 	return nS;
